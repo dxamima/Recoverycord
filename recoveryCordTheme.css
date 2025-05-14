@@ -1,1 +1,11 @@
-/* This is a CSS comment */
+/**
+ * @name Recoverycord
+ * @author dxamima
+ * @description Just normal Discord, but full of MacOS stuff!
+ * @version 0.0.1
+ */
+
+:root {
+    --my-size: 13px;
+    --my-color: #000000;
+}
