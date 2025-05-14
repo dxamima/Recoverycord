@@ -3,7 +3,7 @@ name: Auto Release on Theme Update
 on:
   push:
     paths:
-      - 'recoveryCordTheme.css'
+      - 'https://github.com/dxamima/Recoverycord/recoveryCordTheme.css'
 
 jobs:
   release:
